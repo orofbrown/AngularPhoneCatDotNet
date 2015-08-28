@@ -9,7 +9,7 @@ namespace AngularDemo.Controllers
         public string GetPhone(string id)
         {
             var assembly = Assembly.GetExecutingAssembly();
-            var textStreamReader = new StreamReader(assembly.GetManifestResourceStream(string.Format("AngularDemo.Resources.Phones.{0}.json", id)));
+            var textStreamReader = new StreamReader(assembly.GetManifestResourceStream(string.Format("AngularDemo.Model.Phones.{0}.json", id)));
             return textStreamReader.ReadToEnd();
         }
     }
