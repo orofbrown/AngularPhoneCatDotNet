@@ -87,67 +87,67 @@
   <ItemGroup>
     <Content Include="packages.config" />
     <Content Include="Views\Home\Index.cshtml" />
-    <EmbeddedResource Include="Resources\Phones\dell-streak-7.json">
+    <EmbeddedResource Include="Model\Phones\dell-streak-7.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
-    <EmbeddedResource Include="Resources\Phones\dell-venue.json">
+    <EmbeddedResource Include="Model\Phones\dell-venue.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
-    <EmbeddedResource Include="Resources\Phones\droid-2-global-by-motorola.json">
+    <EmbeddedResource Include="Model\Phones\droid-2-global-by-motorola.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
-    <EmbeddedResource Include="Resources\Phones\droid-pro-by-motorola.json">
+    <EmbeddedResource Include="Model\Phones\droid-pro-by-motorola.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
-    <EmbeddedResource Include="Resources\Phones\lg-axis.json">
+    <EmbeddedResource Include="Model\Phones\lg-axis.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
-    <EmbeddedResource Include="Resources\Phones\motorola-atrix-4g.json">
+    <EmbeddedResource Include="Model\Phones\motorola-atrix-4g.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
-    <EmbeddedResource Include="Resources\Phones\motorola-bravo-with-motoblur.json">
+    <EmbeddedResource Include="Model\Phones\motorola-bravo-with-motoblur.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
-    <EmbeddedResource Include="Resources\Phones\motorola-charm-with-motoblur.json">
+    <EmbeddedResource Include="Model\Phones\motorola-charm-with-motoblur.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
-    <EmbeddedResource Include="Resources\Phones\motorola-defy-with-motoblur.json">
+    <EmbeddedResource Include="Model\Phones\motorola-defy-with-motoblur.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
-    <EmbeddedResource Include="Resources\Phones\motorola-xoom-with-wi-fi.json">
+    <EmbeddedResource Include="Model\Phones\motorola-xoom-with-wi-fi.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
-    <EmbeddedResource Include="Resources\Phones\motorola-xoom.json">
+    <EmbeddedResource Include="Model\Phones\motorola-xoom.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
-    <EmbeddedResource Include="Resources\Phones\nexus-s.json">
+    <EmbeddedResource Include="Model\Phones\nexus-s.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
-    <EmbeddedResource Include="Resources\Phones\phones.json">
+    <EmbeddedResource Include="Model\Phones\phones.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
-    <EmbeddedResource Include="Resources\Phones\samsung-galaxy-tab.json">
+    <EmbeddedResource Include="Model\Phones\samsung-galaxy-tab.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
-    <EmbeddedResource Include="Resources\Phones\samsung-gem.json">
+    <EmbeddedResource Include="Model\Phones\samsung-gem.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
-    <EmbeddedResource Include="Resources\Phones\samsung-mesmerize-a-galaxy-s-phone.json">
+    <EmbeddedResource Include="Model\Phones\samsung-mesmerize-a-galaxy-s-phone.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
-    <EmbeddedResource Include="Resources\Phones\samsung-showcase-a-galaxy-s-phone.json">
+    <EmbeddedResource Include="Model\Phones\samsung-showcase-a-galaxy-s-phone.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
-    <EmbeddedResource Include="Resources\Phones\samsung-transform.json">
+    <EmbeddedResource Include="Model\Phones\samsung-transform.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
-    <EmbeddedResource Include="Resources\Phones\sanyo-zio.json">
+    <EmbeddedResource Include="Model\Phones\sanyo-zio.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
-    <EmbeddedResource Include="Resources\Phones\t-mobile-g2.json">
+    <EmbeddedResource Include="Model\Phones\t-mobile-g2.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
-    <EmbeddedResource Include="Resources\Phones\t-mobile-mytouch-4g.json">
+    <EmbeddedResource Include="Model\Phones\t-mobile-mytouch-4g.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
     <Content Include="Views\Web.config" />
