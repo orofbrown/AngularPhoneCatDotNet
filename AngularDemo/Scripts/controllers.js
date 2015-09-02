@@ -25,5 +25,4 @@ phonecatControllers.controller('PhoneListCtrl', ['$scope', 'Phone',
         $scope.setImage = function (imageUrl) {
             $scope.mainImageUrl = imageUrl;
         };
-    }
 ]);
